@@ -1,3 +1,4 @@
 
-name = 'Eddie'print(f"Helloe {name}")
+name = 'Eddie'print
+("Helloe {name}")
 print('hellloooo world')
