@@ -1,4 +1,4 @@
 
 name = 'Eddie'
-print("Helloe {name}")
+print(f"Helloe {name}")
 print('hellloooo world')
