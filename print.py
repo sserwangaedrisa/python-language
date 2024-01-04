@@ -1,4 +1,4 @@
 
-name = 'Eddie'print
-("Helloe {name}")
+name = 'Eddie'
+print("Helloe {name}")
 print('hellloooo world')
