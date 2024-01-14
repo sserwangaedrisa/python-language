@@ -4,4 +4,7 @@ from sys import argv
 for i in argv:
     print(f"{i}")
 
-# 
+# In case you want to print a portion of the list
+for arg in argv[1:2]:
+    print(f"{arg}")
+    
