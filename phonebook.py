@@ -1,4 +1,7 @@
-
+# initializing a dictionary
+person ={}
+# or 
+# person = dict()
 
 person = {
    'Eddie': 756429788,
